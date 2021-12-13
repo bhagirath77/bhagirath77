@@ -8,7 +8,7 @@
   </tr>
 </table>
 
-### Hey there, I'm Bhagirath <img src="https://github.com/bhagirath77/bhagirath77/blob/master/Assests/Hi.gif" width="29px">
+### Hey there, I'm Bhagirath <img src="https://github.com/bhagirath77/bhagirath77/blob/main/Assests/Hi.gif" width="29px">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 I am a pre-final year student pursuing Computer Science and Engineering  from Indian Institute of Technology Jodhpur. I like to play 
 with algorithms to come up with ways to implement things in a more optimized way. I have deep interest in web automation and web scraping 
