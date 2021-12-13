@@ -5,8 +5,8 @@
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/iamshubhamg/)  [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 <table>
   <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/iamshubhamg/count.svg" alt="vistor count" height="50" /></td>
+    <td>Visitor no.</td>
+    <td><img src="https://profile-counter.glitch.me/bhagirath77/count.svg" alt="vistor count" height="50" /></td>
   </tr>
 </table>
 
