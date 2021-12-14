@@ -7,9 +7,9 @@
     <td><img src="https://profile-counter.glitch.me/bhagirath77/count.svg" alt="vistor count" height="50" /></td>
   </tr>
 </table>
+<img align="right" height="280" width="420" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Hey there, I'm Bhagirath <img src="https://github.com/bhagirath77/bhagirath77/blob/main/Assests/Hi.gif" width="29px">
-<img align="right" height="260" width="390" alt="" src="https://github.com/bhagirath77/bhagirath77/blob/main/Assests/coder.gif" />
 I am a pre-final year student pursuing Computer Science and Engineering  from Indian Institute of Technology Jodhpur. I like to play 
 with algorithms to come up with ways to implement things in a more optimized way. I have deep interest in web automation and web scraping 
 and try to come up with applications which would make my daily life easier using them. I have a proficiency in Python but I have also worked 
