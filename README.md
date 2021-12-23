@@ -52,6 +52,5 @@ on different languages while exploring all the different domains of development.
 ## Find me around the web <img src="https://github.com/bhagirath77/bhagirath77/blob/master/Assests/Earth.gif" width="24px"> :
 - Do competitive programming at <a href="https://codeforces.com/profile/Bhagi__77">CodeForces</a>📹✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/bhagirathsarvaiya/">LinkedIn</a> 💼
-- Social media <a href="https://www.instagram.com/bhagi_77/">Instagram</a> 👀
 
 If you found my profile interesting, do follow me :) 
