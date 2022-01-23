@@ -50,7 +50,7 @@ on different languages while exploring all the different domains of development.
 
 
 ## Find me around the web <img src="https://i.pinimg.com/originals/1a/25/78/1a25782d8edd6f4f211bb418b604daaa.gif" width="24px"> :
-- Do competitive programming at <a href="https://codeforces.com/profile/Bhagi__77">CodeForces</a>📹✍🏾
+- Do competitive programming at <a href="https://www.codechef.com/users/softcoder_3301">CodeChef</a>📹✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/bhagirathsarvaiya/">LinkedIn</a> 💼
 
 If you found my profile interesting, do follow me :) 
