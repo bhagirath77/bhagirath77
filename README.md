@@ -49,7 +49,7 @@ on different languages while exploring all the different domains of development.
 [comment]: <> (![Bhagirath's Github Stats]&#40;https://github-readme-stats.vercel.app/api?username=bhagirath77&show_icons=true&theme=radical&#41;       [![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=iamshubhamg&theme=radical&#41;]&#40;https://github.com/iamshubhamg/github-readme-stats&#41;)
 
 
-## Find me around the web <img src="https://github.com/bhagirath77/bhagirath77/blob/master/Assests/Earth.gif" width="24px"> :
+## Find me around the web <img src="https://kabarmedia.github.io/flat-earth-gif/" width="24px"> :
 - Do competitive programming at <a href="https://codeforces.com/profile/Bhagi__77">CodeForces</a>📹✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/bhagirathsarvaiya/">LinkedIn</a> 💼
 
