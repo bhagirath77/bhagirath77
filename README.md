@@ -10,21 +10,23 @@
 <img align="right" height="280" width="420" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Hey there, I'm Bhagirath <img src="https://github.com/bhagirath77/bhagirath77/blob/main/Assests/Hi.gif" width="29px">
-I am a pre-final year student pursuing Computer Science and Engineering  from Indian Institute of Technology Jodhpur. I like to play 
-with algorithms to come up with ways to implement things in a more optimized way. I have deep interest in web automation and web scraping 
+I am a final year student pursuing Computer Science and Engineering  from Indian Institute of Technology Jodhpur. I like to play 
+with algorithms to come up with ways to implement things in a more optimized way. I have deep interest in web automation and web scraping ( which I rarely do) 
 and try to come up with applications which would make my daily life easier using them. I have a proficiency in Python but I have also worked 
 on different languages while exploring all the different domains of development. Feel free to reach out to me on my institute mail id for any collaborations. 😃
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedinProfile-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhagirathsarvaiya/)](https://www.linkedin.com/in/bhagirathsarvaiya/)
+[![Codefroces Badge](https://img.shields.io/badge/-Codechef-994d00?style=flat-square&logo=codechef&logoColor=white&link=https://www.linkedin.com/in/bhagirathsarvaiya/)](https://www.codechef.com/users/softcoder_3301/)
 [![MAIL Badge](https://img.shields.io/badge/-sarvaiya.1@iitj.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarvaiya.1@iitj.ac.in)](mailto:sarvaiya.1@iitj.ac.in)
-[![Leetcode Badge](https://img.shields.io/badge/-LeetcodeProfile-yellow?style=flat-square&logo=Leetcode&logoColor=black&link=https://www.linkedin.com/in/bhagirathsarvaiya/)](https://leetcode.com/Bhagi_77/)
- 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhagirathsarvaiya/)](https://www.linkedin.com/in/bhagirathsarvaiya/)
+
+[comment]: <> ([![Leetcode Badge]&#40;https://img.shields.io/badge/-LeetcodeProfile-yellow?style=flat-square&logo=Leetcode&logoColor=black&link=https://www.linkedin.com/in/bhagirathsarvaiya/&#41;]&#40;https://leetcode.com/Bhagi_77/&#41;)
+
 ### About Me <img src="https://camo.githubusercontent.com/7bf64c0124cdd39d5abc7bc192debd43dd4aae6c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="29px">
 
-- 🔭 I’m currently working on detecting obfuscation duplication of texts. 
+- 🔭 I’m currently working on creating a mobile application involving heartbeat detection. 
 - 🌱 I’m currently learning <b>Data Structures, JavaScript</b>
-- 👯 I’m looking to collaborate on <b>Projects on Python</b>
-- 🤔 I’m looking for help with <b>Java<b>
+- 👯 I’m looking to collaborate on <b>Projects in Python</b>
+- 🤔 I’m looking for help with <b>Java<b> and Machine learning.
 - 💬 Ask me about 🏏
 - ⚡ Fun fact: I browse reddit all day 👨‍💻
 
@@ -36,15 +38,19 @@ on different languages while exploring all the different domains of development.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://seeklogo.com/images/M/mobx-logo-0C59CBBAD9-seeklogo.com.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="30" src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"></code>
 
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
+[comment]: <> (*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*)
 
 [comment]: <> (![Bhagirath's Github Stats]&#40;https://github-readme-stats.vercel.app/api?username=bhagirath77&show_icons=true&theme=radical&#41;       [![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=iamshubhamg&theme=radical&#41;]&#40;https://github.com/iamshubhamg/github-readme-stats&#41;)
 
