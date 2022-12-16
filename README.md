@@ -19,7 +19,7 @@ on different languages while exploring all the different domains of development.
 [![MAIL Badge](https://img.shields.io/badge/-sarvaiya.1@iitj.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarvaiya.1@iitj.ac.in)](mailto:sarvaiya.1@iitj.ac.in)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhagirathsarvaiya/)](https://www.linkedin.com/in/bhagirathsarvaiya/)
 
-[comment]: <> ([![Leetcode Badge]&#40;https://img.shields.io/badge/-LeetcodeProfile-yellow?style=flat-square&logo=Leetcode&logoColor=black&link=https://www.linkedin.com/in/bhagirathsarvaiya/&#41;]&#40;https://leetcode.com/Bhagi_77/&#41;)
+[![Leetcode Badge](https://img.shields.io/badge/-LeetcodeProfile-yellow?style=flat-square&logo=Leetcode&logoColor=black&link=https://www.linkedin.com/in/bhagirathsarvaiya/)](https://leetcode.com/Bhagi_77/)
 
 ### About Me <img src="https://camo.githubusercontent.com/7bf64c0124cdd39d5abc7bc192debd43dd4aae6c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="29px">
 
